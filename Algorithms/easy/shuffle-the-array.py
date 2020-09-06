@@ -3,5 +3,5 @@ class Solution:
         ans = []
         for x in range(n):
             ans.append(nums[x])
-            ans.append(nums[x+n])
+            ans.append(nums[x + n])
         return ans
