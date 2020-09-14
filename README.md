@@ -7,6 +7,7 @@ My leetcode solutions.
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/shuffle-the-array.py) | easy |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/destination-city.java) | easy |
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/merge-sorted-array.c) | easy |
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/relative-sort-array.py) | easy |
 &#xfeff; &#xfeff; | &#xfeff; | &#xfeff; |
 |468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/validate-ip-address.java) | medium |
 |442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/find-all-duplicates-in-an-array.java) | medium |
