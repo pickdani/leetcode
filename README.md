@@ -4,6 +4,7 @@ My leetcode solutions.
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/merge-sorted-array.c) | easy |
+|183| [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/pickdani/leetcode/blob/master/Database/easy/customers-who-never-order.sql) | easy |
 |595| [Big Countries](https://leetcode.com/problems/big-countries/)| [SQL](https://github.com/pickdani/leetcode/blob/master/Database/easy/big-countries.sql) | easy |
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/relative-sort-array.py) | easy |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/destination-city.java) | easy |
