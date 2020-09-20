@@ -15,6 +15,6 @@ My leetcode solutions.
 &#xfeff; &#xfeff; | &#xfeff; | &#xfeff; |
 |442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/find-all-duplicates-in-an-array.java) | medium |
 |468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/validate-ip-address.java) | medium |
-|1476| [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/subrectangl-queries.py) | medium|
+|1476| [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/subrectangle-queries.py) | medium|
 |&#xfeff;| &#xfeff; | &#xfeff; | &#xfeff; |
 | 37| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/hard/sudoku-solver.java) | hard |
