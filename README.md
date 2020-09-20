@@ -18,3 +18,4 @@ My leetcode solutions.
 |1476| [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/subrectangle-queries.py) | medium|
 |&#xfeff;| &#xfeff; | &#xfeff; | &#xfeff; |
 | 37| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/hard/sudoku-solver.java) | hard |
+|262| [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [SQL](https://github.com/pickdani/leetcode/blob/master/Database/hard/trips-and-users.sql) | hard |
