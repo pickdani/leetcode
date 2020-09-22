@@ -13,6 +13,7 @@ My leetcode solutions.
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/number-of-good-pairs.py) | easy |
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/matrix-diagonal-sum.py) | easy |
 &#xfeff; &#xfeff; | &#xfeff; | &#xfeff; |
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/spiral-matrix.py) | medium |
 |442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/find-all-duplicates-in-an-array.java) | medium |
 |468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/validate-ip-address.java) | medium |
 |1476| [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/subrectangle-queries.py) | medium|
