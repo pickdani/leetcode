@@ -23,3 +23,4 @@ My leetcode solutions.
 |&#xfeff;| &#xfeff; | &#xfeff; | &#xfeff; |
 | 37| [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/hard/sudoku-solver.java) | hard |
 |262| [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [SQL](https://github.com/pickdani/leetcode/blob/master/Database/hard/trips-and-users.sql) | hard |
+|1095| [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/hard/find-in-mountain-array.py) | hard |
