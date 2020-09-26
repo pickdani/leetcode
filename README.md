@@ -3,6 +3,7 @@ My leetcode solutions.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1| [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/two-sum.py) | easy |
 |88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/merge-sorted-array.c) | easy |
 |183| [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/pickdani/leetcode/blob/master/Database/easy/customers-who-never-order.sql) | easy |
 |595| [Big Countries](https://leetcode.com/problems/big-countries/)| [SQL](https://github.com/pickdani/leetcode/blob/master/Database/easy/big-countries.sql) | easy |
