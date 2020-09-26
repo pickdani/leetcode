@@ -32,7 +32,7 @@ class Solution:
                 return m
             elif target > middle_val: # target on right
                 l = m + 1
-            else: # peak on left
+            else: # target on left
                 r = m
 
         # search peak to n, \
@@ -45,7 +45,7 @@ class Solution:
                 return m
             elif target < middle_val: # target on right
                 l = m + 1
-            else: # peak on left
+            else: # target on left
                 r = m
 
         return -1
