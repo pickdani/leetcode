@@ -15,6 +15,7 @@ My leetcode solutions.
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/xor-operation-in-an-array.py)| easy |
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/number-of-good-pairs.py) | easy |
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/matrix-diagonal-sum.py) | easy |
+|1598|[Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)|[Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/easy/crawler-log-folder.py) | easy |
 &#xfeff; &#xfeff; | &#xfeff; | &#xfeff; |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/spiral-matrix.py) | medium |
 |442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Java](https://github.com/pickdani/leetcode/blob/master/Algorithms/medium/find-all-duplicates-in-an-array.java) | medium |
